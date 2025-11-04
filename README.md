@@ -9,12 +9,11 @@ I am a passionate Computer Science student, driven by curiosity, creativity, and
 * 🎓 I’m currently pursuing my degree in **Computer Science**.
 * 💻 I enjoy **building web projects** that combine design and functionality.
 * 🌱 I’m currently focused on **frontend development** — especially mastering **HTML, CSS, and JavaScript**.
-* 🧠 I’m gradually expanding into **React, Tailwind CSS**, and **backend development** using **PHP and MySQL**.
-* 📚 I’m also passionate about **learning, content creation**, and using **AI tools** to enhance productivity and creativity.
+* 🧠 I’m gradually expanding into **React, Tailwind CSS**.
 
 ## 🧩 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,react,tailwind,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,github)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -22,8 +21,6 @@ I am a passionate Computer Science student, driven by curiosity, creativity, and
 
   * Building responsive and interactive interfaces with **React**.
   * Styling with **Tailwind CSS** for modern UI design.
-  * Creating dynamic server-side logic with **PHP** and **MySQL**.
-  * Learning **JavaScript in depth**, including Regular Expressions and advanced DOM manipulation.
 
 ## 🏆 Achievements
 
