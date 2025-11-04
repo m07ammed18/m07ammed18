@@ -1,6 +1,5 @@
-- 👋 Hi, I'm Mohammed
+# 👋 Hi, I'm Mohammed  
+🎓 I'm a **Computer Science student** passionate about **web development**
 
-<!---
-m07ammed18/m07ammed18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+“Code. Learn. Build. Repeat.” 🚀
