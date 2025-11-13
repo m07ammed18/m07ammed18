@@ -13,7 +13,7 @@ I am a passionate Computer Science student, driven by curiosity, creativity, and
 
 ## 🧩 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,tailwind,github)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
