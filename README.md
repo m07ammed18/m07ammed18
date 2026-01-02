@@ -8,7 +8,7 @@ I am a passionate Computer Science student, driven by curiosity, creativity, and
 
 * 🎓 I’m currently pursuing my degree in **Computer Science**.
 * 💻 I enjoy **building web projects** that combine design and functionality.
-* 🌱 I’m currently focused on **frontend development** — especially mastering **HTML, CSS, and JavaScript**.
+* 🌱 I’m currently focused on **frontend development**.
 * 🧠 I’m gradually expanding into **React, Tailwind CSS**.
 
 ## 🧩 Tech Stack
